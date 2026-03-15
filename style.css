@@ -89,14 +89,14 @@ body {
         #videoContainer { 
             position: relative; 
             width: 480px; 
-            height: 360px; 
+            height: 800px; 
             background-color: #333; 
             border-radius: 10px; 
             overflow: hidden; 
         }
         
         /* Estilo do Chat */
-        #chatContainer { width: 300px; height: 360px; background-color: white; border: 1px solid #ccc; border-radius: 10px; display: flex; flex-direction: column; overflow: hidden; }
+        #chatContainer { width: 300px; height: 150px; background-color: white; border: 1px solid #ccc; border-radius: 10px; display: flex; flex-direction: column; overflow: hidden; }
         #messages { flex: 1; padding: 10px; overflow-y: scroll; border-bottom: 1px solid #ccc; font-size: 14px; }
         #messageInput { padding: 10px; border: none; outline: none; }
         

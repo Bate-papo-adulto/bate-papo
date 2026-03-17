@@ -3,16 +3,9 @@ User-agent: *
 Allow: /
 
 
-Disallow: /admin/
-Disallow: /backup/
-Disallow: /minha-conta/
-Disallow: /documentos/
-Disallow: /senha/
-
-
 Disallow: /*.sql$
 Disallow: /*.bak$
 Disallow: /*.log$
 
 # Define o Sitemap do site
-Sitemap: https://gvvideos.github.io/sitemap.xml
+Sitemap: https://gvvideos.github.io

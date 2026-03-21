@@ -1,7 +1,7 @@
 Bate papo adulto, bate papo adulto com homem, bate papo adulto com homem pelado, bate papo adulto com homem batendo punheta.
 # 🚀 Nome do Projeto
 
-> Bate papo, bate papo adulto, bate papo adulto com homem, bate papo adulto com homem pelado, bate papo adulto com homem batendo punheta.
+> Bate papo adulto, bate papo adulto com homem, bate papo adulto com homem pelado, bate papo adulto com homem batendo punheta.
 
 ![gvvídeos](pasta/videos/gvvídeos.jpg)
 

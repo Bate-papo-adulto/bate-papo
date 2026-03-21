@@ -5,9 +5,7 @@ Allow: /
 Disallow: /termos.html
 Disallow: /politica.html
 Disallow: /contato.html
-# Disallow: /videos.html 
-# Disallow: /imagens.html 
-Disallow: /homem.html
+
 
 # Bloquear arquivos sensíveis e de backup
 Disallow: /*.sql$

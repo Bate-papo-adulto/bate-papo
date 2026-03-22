@@ -15,4 +15,4 @@ Disallow: /*.zip$
 Disallow: /*.gz$
 
 # Sitemap
-Sitemap: https://gvvideos.github.io
+Sitemap: https://bate-papo-adulto.github.io
